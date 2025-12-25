@@ -1,0 +1,24 @@
+{
+  "name": "expert-bridge-landing",
+  "version": "1.0.0",
+  "description": "The Expert Bridge - Pre-vetted engineering talent in 48 hours",
+  "main": "index.html",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'Static site - no build needed'",
+    "deploy": "netlify deploy --prod"
+  },
+  "keywords": [
+    "staffing",
+    "engineering",
+    "talent",
+    "offshore",
+    "cloud-engineers"
+  ],
+  "author": "The Expert Bridge",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
